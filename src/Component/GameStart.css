@@ -1,0 +1,17 @@
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    border: 3px solid green; 
+}
+
+.center Button{
+    display: block;
+}
+/* @media screen and (min-width: 1024px) {
+    .start  {
+      display:flex;
+    }
+  } */
